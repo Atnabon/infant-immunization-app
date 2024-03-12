@@ -1,1 +1,0 @@
-# infant-immunization-app
